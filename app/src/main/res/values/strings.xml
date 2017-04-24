@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Baton</string>
+    <string name="title_myevents">My Events</string>
+    <string name="title_trendingEvents">Trending Events</string>
+    <string name="title_trendingLocations">Trending Locations</string>
+    <string name="title_sponsored">Sponsored</string>
+    <string name="title_search">Search</string>
+</resources>
